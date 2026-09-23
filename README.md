@@ -8,7 +8,8 @@ All credit for the mod goes to its authors; this repo only packages Kino der Tot
 
 Download
 --------
-https://storage.googleapis.com/mishari-misc/plutonium/Kino-Declassified-Full.zip
+GitHub release: https://github.com/misharii/Kino-Declassified-Full/releases/latest
+Mirror: https://storage.googleapis.com/mishari-misc/plutonium/Kino-Declassified-Full.zip
 Only ~0.88 GB, instead of ~9 GB for the whole mod.
 (This repository contains only the installer; the game files are in the zip.)
 

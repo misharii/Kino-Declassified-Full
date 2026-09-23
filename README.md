@@ -3,7 +3,8 @@ Zombies Declassified BETA 2 - Kino der Toten only (offline)
 
 Kino der Toten from the Zombies Declassified mod for Plutonium T6 (Black Ops II).
 All files are included - no Python and no extra downloads needed.
-Mod project: https://github.com/Logo-2K/zombies-declassified
+Based on Zombies Declassified by Logo-2K: https://github.com/Logo-2K/zombies-declassified
+All credit for the mod goes to its authors; this repo only packages Kino der Toten.
 
 Download
 --------
